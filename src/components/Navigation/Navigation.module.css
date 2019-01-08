@@ -1,0 +1,20 @@
+.list {
+  display: flex;
+  list-style: none;
+}
+
+.link {
+  padding: 4px 8px;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.link:hover {
+  color: #0050db;
+}
+.activeLink{
+  color: #0050db;
+
+}
